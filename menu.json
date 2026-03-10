@@ -1,0 +1,258 @@
+{
+  "STARTER": [
+    {
+      "nome": "BBQ WINGS",
+      "prezzo": "7€",
+      "ingredienti": "alette di pollo con salsa BBQ",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "SWEET CHICKEN",
+      "prezzo": "7€",
+      "ingredienti": "stick di pollo con salsa agrodolce",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "PULLED BALLZ",
+      "prezzo": "7€",
+      "ingredienti": "Polpette di pulled pork con cheddar e bacon",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "CRUNCHY RINGS",
+      "prezzo": "7€",
+      "ingredienti": "Cipolla fritta ad anelli",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "NACHO CHAOS",
+      "prezzo": "7€",
+      "ingredienti": "Nachos con cheddar, guacamole e pulled pork",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "AMERICAN FRIES",
+      "prezzo": "7€",
+      "ingredienti": "Patata americana",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "MAD MIX",
+      "prezzo": "7€",
+      "ingredienti": "2 stick di pollo, 2 anelli di cipolla, 2 chicken wings, 2 polpette di pulled pork, stick americana, stick classica",
+      "foto": "immagini/piatti/nachos.jpg"
+    }
+ ],
+
+  "WRAP": [
+   {
+      "nome": "PULLED SMOKE WRAP",
+      "prezzo": "7€",
+      "ingredienti": "Pulled pork, cheddar, insalata, salsa BBQ, cipolla caramellata",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "CHICKEN MAD WRAP",
+      "prezzo": "7€",
+      "ingredienti": "Pollo fritto, insalata, pomodoro, cheddar, Salsa MAD",
+      "foto": "immagini/piatti/nachos.jpg"
+    }
+  ],
+  "CLUB SANDWICH": [
+   {
+      "nome": "PORKY MAD",
+      "prezzo": "7€",
+      "ingredienti": "Pulled pork, cheddar, cipolla caramellata, insalata, BBQ",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "SALMON SPLASH",
+      "prezzo": "7€",
+      "ingredienti": "Salmone, guacamole, rucola, pomodoro, lime, bufala",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "EGG ATTACK",
+      "prezzo": "7€",
+      "ingredienti": "Uovo, bacon, cheddar, pomodoro, insalata, mayo",
+      "foto": "immagini/piatti/nachos.jpg"
+    } 
+  ],
+  "SMASH CLUB": [
+    {
+      "nome": "CLASSIC SMASH",
+      "prezzo": "7€",
+      "ingredienti": "Smash, insalata, pomodoro, cheddar, bacon, ketchup e maionese",
+      "foto": "immagini/smash1.png"
+    },
+    {
+      "nome": "BBQ CRUSH",
+      "prezzo": "7€",
+      "ingredienti": "Smash,insalata,pomodoro,cheddar,bacon,cipolla caramellata,BBQ",
+      "foto": "immagini/smash1.png"
+    },
+    {
+      "nome": "EGG ATTACK",
+      "prezzo": "7€",
+      "ingredienti": "Smash, insalata, pomodoro, cheddar, bacon, uovo, maionese al pepe",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "MADARICO BOOM",
+      "prezzo": "7€",
+      "ingredienti": "Doppio smash, doppio cheddar, doppio bacon, insalata, salsa MADARICO, colata di cheddar e bacon",
+      "foto": "immagini/piatti/nachos.jpg"
+    }
+  ],
+  "SPECIAL MAD": [
+   {
+      "nome": "HONEY PORK",
+      "prezzo": "7€",
+      "ingredienti": "Pulled pork, insalata, cheddar, bacon, cipolla caramellata, BBQ al miele",
+      "foto": "immagini/piatti/nachos.jpg"
+    }, 
+    {
+      "nome": "SPICY CHICKEN",
+      "prezzo": "7€",
+      "ingredienti": "Pollo fritto, insalata, pomodoro, cheddar, bacon, maionese spicy",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "MAD CHICKEN",
+      "prezzo": "7€",
+      "ingredienti": "Pollo fritto, insalata, cheddar, bacon, salsa MADARICO",
+      "foto": "immagini/piatti/nachos.jpg"
+    }
+  ],
+  "BURGER": [
+    {
+      "nome": "PISTACCHIO POWER",
+      "prezzo": "7€",
+      "ingredienti": "Scottona 180g, provola affumicata, mortadella IGP, patate al forno, pesto di pistacchio",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "RED FOX",
+      "prezzo": "7€",
+      "ingredienti": "Scottona 180g, rucola, pomodoro fritto, bufala, bacon, senape e miele",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "ZENIT",
+      "prezzo": "7€",
+      "ingredienti": "Scottona 180g, rucola, pomodoro secco, brie, cipolla caramellata, crema al tartufo",
+      "foto": "immagini/piatti/nachos.jpg"
+    }
+  ],
+  "BUN SEA": [
+    {
+      "nome": "SALMON STAR",
+      "prezzo": "7€",
+      "ingredienti": "Salmone affumicato, olio EVO, pepe rosa, burratina pugliese, pomodorino caramellato, teriyaki",
+      "foto": "immagini/piatti/nachos.jpg"
+    }
+  ],
+  "GRILL MASTER": [
+    {
+      "nome": "RIBS",
+      "prezzo": "7€",
+      "ingredienti": "Costine di maiale cotte a bassa temperatura e glassate BBQ",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "STINCO",
+      "prezzo": "7€",
+      "ingredienti": "Stinco di maiale cottura lenta al forno, succoso e intenso",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "ENTRECÔTE",
+      "prezzo": "7€",
+      "ingredienti": "Taglio selezionato alla griglia, cottura a scelta",
+      "foto": "immagini/piatti/nachos.jpg"
+    }
+  ],
+  "GREEN ZONE": [
+    {
+      "nome": "CLASSICA",
+      "prezzo": "7€",
+      "ingredienti": "Insalata, pomodoro, carote, sesamo, glassa balsamica",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "FIT",
+      "prezzo": "7€",
+      "ingredienti": "Insalata, pomodoro, pollo alla griglia, zucchine, melanzane, crema ai peperoni, cipolla caramellata",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "BARESE",
+      "prezzo": "7€",
+      "ingredienti": "Insalata, pomodoro secco, crudo alla barese, bufala, olive taggiasche",
+      "foto": "immagini/piatti/nachos.jpg"
+    }
+  ],
+  "PINSE": [
+    {
+      "nome": "LA ROSSA ",
+      "prezzo": "7€",
+      "ingredienti": "Salsa di pomodoro, fior di latte, basilico",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+     {
+      "nome": "CARBONARA SUPREMA",
+      "prezzo": "7€",
+      "ingredienti": "Fior di latte, carbo crema, pecorino, pepe, guanciale croccante",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+     {
+      "nome": "PISTACCHIO DREAM",
+      "prezzo": "7€",
+      "ingredienti": "Fior di latte, mortadella, crema di pistacchio, stracciatella, granella di pistacchio",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+     {
+      "nome": "LUXURY",
+      "prezzo": "7€",
+      "ingredienti": "Rucola, crudo di parma, pomodoro ciliegino, bufala, olio extra vergine d’oliva",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+     {
+      "nome": "SALMON VIBES",
+      "prezzo": "7€",
+      "ingredienti": "Rucola, salmone, burratina pugliese, pomodorino caramellato, teriaky",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "GREEN MOOD",
+      "prezzo": "7€",
+      "ingredienti": "Crema ai peperoni, melanzane, zucchina, cipolla caramellata",
+      "foto": "immagini/piatti/nachos.jpg"
+    }
+  ],
+  "DESSERT": [
+   {
+      "nome": "CHURROS",
+      "prezzo": "7€",
+      "ingredienti": "Serviti con: caramello salato, Nutella o pistacchio",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "SOUFFLÉ",
+      "prezzo": "7€",
+      "ingredienti": "Cuore caldo al cioccolato o pistacchio",
+      "foto": "immagini/piatti/nachos.jpg"
+    },
+    {
+      "nome": "CHEESECAKE",
+      "prezzo": "7€",
+      "ingredienti": "Disponibile con: caramello salato, Nutella, pistacchio o frutti di bosco",
+      "foto": "immagini/piatti/nachos.jpg"
+    } 
+  ],
+  "BEVANDE": [],
+  "BIRRE": [],
+  "VINI": [],
+  "DRINK": []
+}
+
